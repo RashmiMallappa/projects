@@ -1,0 +1,202 @@
+[
+ {
+   "States": "Kentucky",
+   "Murder": 9.7
+ },
+ {
+   "States": "California",
+   "Murder": 9
+ },
+ {
+   "States": "Missouri",
+   "Murder": 9
+ },
+ {
+   "States": "Arkansas",
+   "Murder": 8.8
+ },
+ {
+   "States": "Virginia",
+   "Murder": 8.5
+ },
+ {
+   "States": "Arizona",
+   "Murder": 8.1
+ },
+ {
+   "States": "Colorado",
+   "Murder": 7.9
+ },
+ {
+   "States": "New Jersey",
+   "Murder": 7.4
+ },
+ {
+   "States": "Ohio",
+   "Murder": 7.3
+ },
+ {
+   "States": "Indiana",
+   "Murder": 7.2
+ },
+ {
+   "States": "Wyoming",
+   "Murder": 6.8
+ },
+ {
+   "States": "Oklahoma",
+   "Murder": 6.6
+ },
+ {
+   "States": "Pennsylvania",
+   "Murder": 6.3
+ },
+ {
+   "States": "Kansas",
+   "Murder": 6
+ },
+ {
+   "States": "Montana",
+   "Murder": 6
+ },
+ {
+   "States": "Delaware",
+   "Murder": 5.9
+ },
+ {
+   "States": "West Virginia",
+   "Murder": 5.7
+ },
+ {
+   "States": "Hawaii",
+   "Murder": 5.3
+ },
+ {
+   "States": "Oregon",
+   "Murder": 4.9
+ },
+ {
+   "States": "Massachusetts",
+   "Murder": 4.4
+ },
+ {
+   "States": "Nebraska",
+   "Murder": 4.3
+ },
+ {
+   "States": "Washington",
+   "Murder": 4
+ },
+ {
+   "States": "South Dakota",
+   "Murder": 3.8
+ },
+ {
+   "States": "Rhode Island",
+   "Murder": 3.4
+ },
+ {
+   "States": "Connecticut",
+   "Murder": 3.3
+ },
+ {
+   "States": "Utah",
+   "Murder": 3.2
+ },
+ {
+   "States": "Minnesota",
+   "Murder": 2.7
+ },
+ {
+   "States": "Idaho",
+   "Murder": 2.6
+ },
+ {
+   "States": "Wisconsin",
+   "Murder": 2.6
+ },
+ {
+   "States": "Iowa",
+   "Murder": 2.2
+ },
+ {
+   "States": "Vermont",
+   "Murder": 2.2
+ },
+ {
+   "States": "Maine",
+   "Murder": 2.1
+ },
+ {
+   "States": "New Hampshire",
+   "Murder": 2.1
+ },
+ {
+   "States": "Georgia",
+   "Murder": 17.4
+ },
+ {
+   "States": "Mississippi",
+   "Murder": 16.1
+ },
+ {
+   "States": "Florida",
+   "Murder": 15.4
+ },
+ {
+   "States": "Louisiana",
+   "Murder": 15.4
+ },
+ {
+   "States": "South Carolina",
+   "Murder": 14.4
+ },
+ {
+   "States": "Alabama",
+   "Murder": 13.2
+ },
+ {
+   "States": "Tennessee",
+   "Murder": 13.2
+ },
+ {
+   "States": "North Carolina",
+   "Murder": 13
+ },
+ {
+   "States": "Texas",
+   "Murder": 12.7
+ },
+ {
+   "States": "Nevada",
+   "Murder": 12.2
+ },
+ {
+   "States": "Michigan",
+   "Murder": 12.1
+ },
+ {
+   "States": "New Mexico",
+   "Murder": 11.4
+ },
+ {
+   "States": "Maryland",
+   "Murder": 11.3
+ },
+ {
+   "States": "New York",
+   "Murder": 11.1
+ },
+ {
+   "States": "Illinois",
+   "Murder": 10.4
+ },
+ {
+   "States": "Alaska",
+   "Murder": 10
+ },
+ {
+   "States": "North Dakota",
+   "Murder": 0.8
+ }
+]
